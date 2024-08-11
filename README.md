@@ -44,7 +44,7 @@ Follow these steps to use the code in this repository:
 
 ## Data Collection
 
-Use the Twitter API to collect tweets. Ensure you have the necessary API keys and tokens. Save the collected data in a CSV file.
+From kaggle i collected resources 
 
 ## Data Preprocessing
 
@@ -75,4 +75,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to customize this README file to better suit your specific project needs.
