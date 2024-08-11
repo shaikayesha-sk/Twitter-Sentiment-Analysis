@@ -60,7 +60,7 @@ Train the sentiment analysis model using machine learning algorithms such as Log
 ## Evaluation
 
 Evaluate the model's performance using metrics such as accuracy, precision, recall, and F1 score. Use a separate validation dataset to ensure unbiased evaluation.
-
+ 
 ## Results
 
 The trained sentiment analysis model achieved an accuracy of 91%. This high level of accuracy indicates the model's effectiveness in classifying tweet sentiments accurately.
